@@ -6,7 +6,7 @@ VirtuStream is an AI-driven virtual streamer system integrating **speech-to-text
 The system enables **real-time chat interactions**, multimodal content output, and mini-game interactions, providing a complete solution for AI virtual streaming.
 
 > **Note:** This project was developed collaboratively in a small team.  
-> Our code was managed through offline ZIP-based version control, so no individual Git history or fork records are available.
+> Our code was managed through offline ZIP-based version control, so no individual Git history or fork records are available. 
 > This README documents my personal contributions to the SODA backend module.  
 > It is based on my fork of the original repository and is intended **solely for showcasing my work** for MS CS applications.  
 > This is not an official documentation of the original project.
